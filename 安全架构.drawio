@@ -307,11 +307,11 @@
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(25, 65, 153); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;智能&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="122" x="52" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;b&gt;威胁情报&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#97D077,#EDEDED);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;威胁情报&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="197" y="670" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#FFC100,#EDEDED);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;流量分析&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="333" y="670" as="geometry" />
+          <mxGeometry height="30" width="131" x="470" y="671.5" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;b&gt;日志关联&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="594" y="670" as="geometry" />
@@ -322,8 +322,8 @@
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;b&gt;知识图谱&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="720" y="669.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;b&gt;文件分析&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="458" y="669.25" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#97D077,#EDEDED);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;文件分析&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="341" y="671" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#194199;strokeColor=#194199;" value="" vertex="1">
           <mxGeometry height="50" width="956" x="54" y="841" as="geometry" />
@@ -373,7 +373,7 @@
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFC100;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;异常检测&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="176" y="791" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFC100;" value="&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;事件检测&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#97D077,#EDEDED);" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;事件检测&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="382" y="793" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFC100;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;安全监控&lt;/b&gt;&lt;/font&gt;" vertex="1">
@@ -684,6 +684,12 @@
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-254" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;一体化平台&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="144" x="872" y="602" as="geometry" />
+        </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-255" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#194199,#EDEDED);fillColor=light-dark(#194199,#EDEDED);gradientColor=none;fontColor=#194199;" value="" vertex="1">
+          <mxGeometry height="40" width="188" x="77" y="229.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-256" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(151, 208, 119), rgb(237, 237, 237));&quot;&gt;绿色标识为之前项目提升能力和建设内容&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="37" width="158" x="94" y="232.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
