@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="npmjDPmNC_QPBb-BcQwr">
-    <mxGraphModel dx="2373" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2883" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -819,6 +819,30 @@
             <mxPoint x="1070.5" y="10" as="sourcePoint" />
             <mxPoint x="1050.5" y="10" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-322" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0053cf, #ededed);strokeColor=light-dark(#0053cf, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="191" x="-1" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-323" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#1196db, #ededed);fillColor=light-dark(#1196db, #ededed);gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="171" x="219" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-324" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#111111, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="171" x="430" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-325" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#00807f, #ededed);gradientColor=none;strokeColor=light-dark(#00807f, #ededed);" value="" vertex="1">
+          <mxGeometry height="40" width="171" x="647" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-326" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;第一阶段：平台数据基础&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="178" x="6" y="-275" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-327" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;第二阶段：夯实改善&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="158" x="221" y="-276" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-328" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;第三阶段：开发完善&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="158" x="436.5" y="-275" as="geometry" />
+        </mxCell>
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-329" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(250, 250, 250), rgb(237, 237, 237));&quot;&gt;第四阶段：持续运营&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="158" x="650" y="-276" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
