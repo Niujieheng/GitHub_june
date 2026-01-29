@@ -361,8 +361,8 @@
         <mxCell id="rfIAjfHkjwhOUDIRvmb_-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#0053cf, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;&quot;&gt;管理驾驶舱&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="120" x="12" y="-186" as="geometry" />
         </mxCell>
-        <mxCell id="rfIAjfHkjwhOUDIRvmb_-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#0053cf, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;产能预测&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29" width="120" x="457" y="-184.5" as="geometry" />
+        <mxCell id="rfIAjfHkjwhOUDIRvmb_-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#0053cf, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;生产质量&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="120" x="165" y="-187" as="geometry" />
         </mxCell>
         <mxCell id="rfIAjfHkjwhOUDIRvmb_-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#1196db, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;绩效考核&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="121.5" x="607.5" y="-184.5" as="geometry" />
@@ -797,7 +797,7 @@
           <mxGeometry height="30" width="158" x="650" y="-276" as="geometry" />
         </mxCell>
         <mxCell id="rfIAjfHkjwhOUDIRvmb_-331" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#1196db, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;财务分析&lt;/b&gt;" vertex="1">
-          <mxGeometry height="29" width="120" x="158.75" y="-186" as="geometry" />
+          <mxGeometry height="29" width="120" x="457" y="-186" as="geometry" />
         </mxCell>
         <mxCell id="rfIAjfHkjwhOUDIRvmb_-332" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#1196db, #ededed);align=center;verticalAlign=middle;rounded=1;" value="&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;客户营销&lt;/b&gt;" vertex="1">
           <mxGeometry height="29" width="121.5" x="309.25" y="-186" as="geometry" />
