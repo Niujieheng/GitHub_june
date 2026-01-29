@@ -28,7 +28,7 @@
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-8" parent="1" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=180;" value="" vertex="1">
           <mxGeometry height="550" width="240" x="-455" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-9" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0.9220208696226306;arcWidth=0.5;rotation=120;" value="" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-9" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0.7468173254495136;arcWidth=0.5;rotation=-180;" value="" vertex="1">
           <mxGeometry height="100" width="100" x="-380" y="690" as="geometry" />
         </mxCell>
       </root>
