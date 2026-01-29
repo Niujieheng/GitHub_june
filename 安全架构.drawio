@@ -415,6 +415,32 @@
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(25, 65, 153); font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;响应&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="122" x="532" y="791" as="geometry" />
         </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-165" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;curved=1;rounded=1;endSize=8;startSize=8;strokeWidth=4;strokeColor=#194199;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="683" />
+              <mxPoint x="1060" y="610" />
+            </Array>
+            <mxPoint x="1020" y="682.75" as="sourcePoint" />
+            <mxPoint x="1020" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-166" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;curved=1;rounded=1;endSize=8;startSize=8;strokeColor=#194199;strokeWidth=4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="368" />
+              <mxPoint x="1060" y="295" />
+            </Array>
+            <mxPoint x="1020" y="367.75" as="sourcePoint" />
+            <mxPoint x="1020" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(25, 65, 153); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;安全&lt;br&gt;保障&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1005" y="316" as="geometry" />
+        </mxCell>
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#194199&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;能力支撑&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="55" x="1008" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
