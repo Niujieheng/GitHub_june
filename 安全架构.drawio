@@ -227,61 +227,61 @@
           <mxGeometry height="30" width="131" x="878" y="585" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;防病毒&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="188" y="401.5" as="geometry" />
+          <mxGeometry height="30" width="131" x="196" y="401.5" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;EDR&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="259" y="401.5" as="geometry" />
+          <mxGeometry height="30" width="131" x="270" y="401.5" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;终端安全系统&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="347" y="401.5" as="geometry" />
+          <mxGeometry height="30" width="131" x="372" y="401.5" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;数据库运维&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="188" y="447.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;数据加密&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="267" y="447.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;堡垒机&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="347" y="447.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;上网行为管理&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="426" y="447.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;态势感知&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="188" y="490.75" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;网络蜜罐&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="267" y="490.75" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;威胁情报&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="347" y="490.75" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;数据库审计&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="426" y="490.75" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="188" y="534.5" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;WEB站点防护&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="195" y="534.5" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="267" y="534.5" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;下一代防火墙&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="280" y="534.5" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="347" y="534.5" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;入侵防御系统&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="371" y="534.5" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="426" y="534.5" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;网络准入&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="448" y="534.5" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;网络架构&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="206" y="580.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="285" y="580.25" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;加密通信传输&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="289" y="580.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="365" y="580.25" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;可信验证&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="372" y="580.25" as="geometry" />
         </mxCell>
-        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="131" x="444" y="580.25" as="geometry" />
+        <mxCell id="bJM7-dQYM9ufIQ3OFhUX-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;Atrust&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="131" x="442" y="580.25" as="geometry" />
         </mxCell>
         <mxCell id="bJM7-dQYM9ufIQ3OFhUX-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;端点防御&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="131" x="193" y="356" as="geometry" />
